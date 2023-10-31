@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abida128
 - 👀 I’m interested in learning different programming languages.
-- 🌱 I’m currently learning React.Js.
+- 🌱 I’m currently learning React.Js, Redux and Backend.
 - 💞️ I’m looking to collaborate on different projects with other people.
 - 📫 Reach me on these media
 - - #https://twitter.com/abidanizam1 
